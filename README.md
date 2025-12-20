@@ -242,10 +242,6 @@ npm run preview
 
 This project is for educational purposes.
 
-## 👨‍💻 Author
-
-Built with ❤️ for ReserveIT Hotel Management System
-
 ---
 
 **Note:** Make sure both backend and frontend are running simultaneously for the application to work properly.
